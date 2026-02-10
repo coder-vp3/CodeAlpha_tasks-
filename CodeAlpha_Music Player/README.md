@@ -1,7 +1,7 @@
 # 🎵 MyMusic – Music Player Website
 
-This is a frontend **Music Player Website ** built using **HTML, CSS, and JavaScript**.  
-The project allows users to play music, manage playlists, like songs, and handle user authentication using browser **localStorage**.
+This is a frontend Music Player Website  built using HTML, CSS, and JavaScript.  
+The project allows users to play music, manage playlists, like songs, and handle user authentication using browser localStorage.
 
 ---
 
@@ -18,15 +18,15 @@ The project allows users to play music, manage playlists, like songs, and handle
 - ⏩ Song progress bar  
 - 👤 User authentication (Sign up, Login, Logout)  
 - 🔐 Password validation and strength indicator  
-- 💾 All data stored using browser **localStorage**
+- 💾 All data stored using browser localStorage
 
 ---
 
 ## 🛠️ Technologies Used
 
-- **HTML** – Structure of the application  
-- **CSS** – Styling and layout  
-- **JavaScript** – Application logic and interactivity  
-- **HTML Audio API** – Music playback  
+- HTML – Structure of the application  
+- CSS – Styling and layout  
+- JavaScript – Application logic and interactivity  
+- HTML Audio API – Music playback  
 
 
