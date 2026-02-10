@@ -26,7 +26,7 @@ It features a masonry-style layout, infinite scrolling, fullscreen lightbox view
 
 - **HTML5**
 - **CSS3**
-- **JavaScript (Vanilla)**
+- **JavaScript**
 - **Font Awesome**
 - **Picsum Photos API**
 - **LocalStorage**
